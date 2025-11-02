@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Open Source Contributions<br><br>🤝 I’m looking to collaborate on<br><br>AI and real-time web projects.<br><br>🫱 I’m looking for help with<br><br>Implementing WebSockets and scaling apps.<br><br>🌱 I’m currently learning<br><br>WebSockets and backend optimization.
+🔭 I’m currently working on<br>Open Source Contributions<br>🤝 I’m looking to collaborate on<br>AI and real-time web projects.<br>🫱 I’m looking for help with<br>Implementing WebSockets and scaling apps.<br>🌱 I’m currently learning<br>WebSockets and backend optimization.
 
 
 # 💻 Tech Stack:
